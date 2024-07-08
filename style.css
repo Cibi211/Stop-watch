@@ -1,0 +1,37 @@
+body{
+    background-color: #E5E4F0;
+    font-family: 'Times New Roman';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100px;
+    overflow: hidden;
+    align-items: center;
+    
+}
+.box{
+    font-size: 7rem;
+    font-weight: 700;
+    text-shadow: 2px 2px #c6c5c6;
+    color: #EA7DA2;
+    width: 600px;
+    text-align: center;
+    margin: 40px auto;
+}
+.but{
+display:flex;
+justify-content: center;
+}
+
+button{
+    background-color: #F0AFCD;
+    color: #E53944;
+    border:none;
+    font-size:2rem;
+    padding:1.5rem 4rem;
+    margin:6px;
+    cursor:pointer;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px #D5D3E5;
+    transition: all 0.2s;
+}
