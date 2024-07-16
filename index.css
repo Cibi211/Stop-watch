@@ -9,7 +9,7 @@ body{
     align-items: center;
     
 }
-.box{
+#box{
     font-size: 7rem;
     font-weight: 700;
     text-shadow: 2px 2px #c6c5c6;
@@ -18,7 +18,7 @@ body{
     text-align: center;
     margin: 40px auto;
 }
-.but{
+#but{
 display:flex;
 justify-content: center;
 }
